@@ -156,7 +156,7 @@ footer {
 .hotspot {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url(/hotspots/alleppy.jpg);
+    background-image: url(./hotspots/alleppy.jpg);
     margin-left: 22%;
     margin-right: 22%;
 
